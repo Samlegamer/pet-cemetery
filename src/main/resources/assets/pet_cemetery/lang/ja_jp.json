@@ -1,0 +1,22 @@
+{
+    "advancements.pet_cemetery.nether.cured_zombie_pet.description": "ゾンビ化したペットを村人ゾンビのように治療する",
+    "advancements.pet_cemetery.nether.cured_zombie_pet.title": "ゾンビ獣医",
+    "advancements.pet_cemetery.nether.respawn_pet.description": "リスポーンアンカーに首輪を使い、ペットを蘇らせる",
+    "advancements.pet_cemetery.nether.respawn_pet.title": "フランケンウィニー",
+    "advancements.pet_cemetery.nether.respawn_zombie_pet.description": "ゾンビ化したペットをスケルトンとして蘇らせる",
+    "advancements.pet_cemetery.nether.respawn_zombie_pet.title": "グリムリーパー",
+    "entity.pet_cemetery.skeleton_cat": "スケルトンキャット",
+    "entity.pet_cemetery.skeleton_parrot": "スケルトンパロット",
+    "entity.pet_cemetery.skeleton_wolf": "スケルトンウルフ",
+    "entity.pet_cemetery.zombie_cat": "ゾンビキャット",
+    "entity.pet_cemetery.zombie_parrot": "ゾンビパロット",
+    "entity.pet_cemetery.zombie_wolf": "ゾンビウルフ",
+    "item.pet_cemetery.pet_collar": "首輪",
+    "item.pet_cemetery.skeleton_cat_spawn_egg": "スケルトンキャットのスポーンエッグ",
+    "item.pet_cemetery.skeleton_parrot_spawn_egg": "スケルトンパロットのスポーンエッグ",
+    "item.pet_cemetery.skeleton_wolf_spawn_egg": "スケルトンウルフのスポーンエッグ",
+    "item.pet_cemetery.zombie_cat_spawn_egg": "ゾンビキャットのスポーンエッグ",
+    "item.pet_cemetery.zombie_parrot_spawn_egg": "ゾンビパロットのスポーンエッグ",
+    "item.pet_cemetery.zombie_wolf_spawn_egg": "ゾンビウルフのスポーンエッグ",
+    "tooltip.pet_cemetery.baby": "子ども"
+  }
